@@ -1,0 +1,5 @@
+Include Irvine32.inc
+
+.data
+msg BYTE 100 DUP(?)
+msg "COMPUTER ORGANIZATION & ASSEMBLY LANGUAGE LAB", 0
